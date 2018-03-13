@@ -1,0 +1,33 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:9045/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "metadata/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "http://localhost:9045/",
+        "ServiceStackLicenseKey": "5393-e1JlZjo1MzkzLE5hbWU6VW5pdGVkIEFpcmxpbmVzLFR5cGU6QnVzaW5lc3MsSGFzaDpuRTF0L01vcWVjMXlwSUZZOS93WlJwT2x4NGE2U2hYa2hIWndTejI5a0p0RW9qMHNQb0VtU0Ewa0FnWVNvaEhhNEtYaG9DT1dXNnRSNkp2ejBweTFqVWFGNWtrSFoyNUpaeXVzSTVDZ3oyb0RMZzI3ZFowS3h2K2h4NEs4VHRNSTAraVBkNXp1Zk1HQjIyamlUbHhZd2FWVjdkM0ZVeTIvZEFYZCtDUTVMczA9LEV4cGlyeToyMDE4LTA5LTIzfQ=="
+      }
+    },
+    "ServiceStackCorePresentation": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "metadata/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "http://localhost:9046/",
+        "ServiceStackLicenseKey": "5393-e1JlZjo1MzkzLE5hbWU6VW5pdGVkIEFpcmxpbmVzLFR5cGU6QnVzaW5lc3MsSGFzaDpuRTF0L01vcWVjMXlwSUZZOS93WlJwT2x4NGE2U2hYa2hIWndTejI5a0p0RW9qMHNQb0VtU0Ewa0FnWVNvaEhhNEtYaG9DT1dXNnRSNkp2ejBweTFqVWFGNWtrSFoyNUpaeXVzSTVDZ3oyb0RMZzI3ZFowS3h2K2h4NEs4VHRNSTAraVBkNXp1Zk1HQjIyamlUbHhZd2FWVjdkM0ZVeTIvZEFYZCtDUTVMczA9LEV4cGlyeToyMDE4LTA5LTIzfQ=="
+      },
+      "applicationUrl": "http://localhost:9046/"
+    }
+  }
+}

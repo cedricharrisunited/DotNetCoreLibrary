@@ -1,0 +1,1 @@
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetCoreLibrary\DotNetCoreLibrary\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
