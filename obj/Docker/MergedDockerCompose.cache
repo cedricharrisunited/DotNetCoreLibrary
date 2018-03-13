@@ -1,0 +1,11 @@
+services:
+  servicestackcorepresentation:
+    build:
+      context: C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary
+      dockerfile: ../ServiceStackCorePresentation/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: servicestackcorepresentation
+    ports:
+    - 80/tcp
+version: '3.0'

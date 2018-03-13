@@ -1,0 +1,5 @@
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetCoreLibrary\ServiceStackCorePresentation
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ServiceStackCorePresentation
+--content-root=C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetCoreLibrary\ServiceStackCorePresentation
+--file=
